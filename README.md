@@ -1,8 +1,8 @@
 # Car Market Analysis
 
 Students:
-Min Thuka, 
-Shwan Myat Nay Chi
+Min Thuka (6530143), 
+Shwan Myat Nay Chi (6530187)
 
 This project is done with React.js and have 3 pages.
 # Deploy Link - https://shwan26.github.io/car-market/
