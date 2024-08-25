@@ -8,4 +8,4 @@ This project is done with React.js.
 
 
 
-![Example Image](images/Dashboard.jpg)
+![Example Image](images/Dashboard.png)
