@@ -5,6 +5,10 @@ Min Thuka (6530143),
 Shwan Myat Nay Chi (6530187)
 
 This project is done with React.js and have 3 pages.
+1. Dashboard Page
+2. Highlighted Car Page
+3. Car List Page
+   
 # Deploy Link - https://shwan26.github.io/car-market/
 
 # Dashboard Page
@@ -12,7 +16,7 @@ This project is done with React.js and have 3 pages.
 ![Example Image](images/DashboardPieChart.png)
 ![Example Image](images/DashboardBarChart.png)
 
-# Highlighted Page
+# Highlighted Car Page
 ![Example Image](images/HighlightedCars.png)
 
 # Car List Page
